@@ -14,22 +14,25 @@ Asegúrate de tener instalado NODE.js en tu máquina de desarrollo local.
 
 Debemos clonar el proyecto mediante Github, mediante el siguiente comando
 
-### `composer install`
+### `git clone https://github.com/DiegoFMendezV/PruebaVuejs.git`
 
-una vez obtenido el proyecto debemos correr:
+Navega al directorio del proyecto
 
-### `composer install`
+### `cd PruebaVuejs`
 
-(dbemos tener instalado previamente XAMPP - composer)
+Una vez obtenido el proyecto debemos correr:
 
-Para iniciar el servidor se debe correr el comando:
+### `npm install`
 
-### `php artisan serve`
+Por último ejecutar el servidor de desarrollo.
 
-Ejecuta la aplicación en modo de desarrollo.\
-Abra [http://localhost:8000](http://localhost:8000) para verlo en su navegador.
+### `npm run dev`
 
-El proyecto estará alojado en GitHub para su consulta a través del siguiente [Link](https://github.com/DiegoFMendezV/inxait)
+El proyecto se estará ejecutando localmente en[http://127.0.0.1:5173/](http://127.0.0.1:5173/)
+
+### REPOSITORIO
+
+El proyecto estará alojado en GitHub para su consulta a través del siguiente [Link](https://github.com/DiegoFMendezV/PruebaVuejs)
 
 # AUTOR
 
